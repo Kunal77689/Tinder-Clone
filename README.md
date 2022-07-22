@@ -1,3 +1,5 @@
+Created a Tinder clone which replicates the tinder app using the MERN stack. It has the swipe card functionality like the real app. This is an ongoing project. Some screenshots are there in the repo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
