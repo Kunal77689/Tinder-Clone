@@ -1,0 +1,10 @@
+.logo{
+  
+  object-fit: contain;
+  height: 40px;
+}
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
